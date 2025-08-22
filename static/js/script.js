@@ -240,9 +240,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
 let estagioAtual = 0;
 const folhasImgs = [
-    "static/img/leaf.png",
-    "static/img/maple.png",
-    
+    "./static/img/leaf.png",
+    "./static/img/maple.png",
 ];
 
 function criarFolha() {
