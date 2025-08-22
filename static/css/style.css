@@ -123,7 +123,7 @@
     padding-top: 200px;
     text-align: center;
     color: #fff;
-    background: url('static/img/fundo.jpg') center/cover no-repeat;
+    background: url('./static/img/fundo.jpg') center/cover no-repeat;
     background-attachment: fixed;
 }
 
